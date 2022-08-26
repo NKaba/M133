@@ -18,13 +18,13 @@ Damit man mit einem Klick auf die nächste Seite weitergeleitet wird, muss man e
 ![Bild](https://user-images.githubusercontent.com/69577050/186892424-6f7e54a0-348f-4ed5-aa65-eb45efb24dc0.png)
 
 Und so sieht der Code aus:
-'''
-<h1>Sitzungsverfolgung Schritt 0</h1>
+        
+       <h1>Sitzungsverfolgung Schritt 0</h1>
         <p>Willkommen. Hier wird die Stzung eröffnet!</p>
         
         <h:form>        
             <h:commandLink action="schritt1.xhtml" value="Hier ist der Text inder die Aktion beim Klicken durchgeführt wird." />
-        </h:form> 
+        </h:form>
         '''
 
 ## Verifikation
