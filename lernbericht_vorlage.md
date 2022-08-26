@@ -25,7 +25,7 @@ Und so sieht der Code aus:
         <h:form>        
             <h:commandLink action="schritt1.xhtml" value="Hier ist der Text inder die Aktion beim Klicken durchgeführt wird." />
         </h:form>
-        '''
+        
 
 ## Verifikation
 
