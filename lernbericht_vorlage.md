@@ -1,22 +1,30 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Nedim Kaba
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Lerbericht, werde ich eine Sache zeigen, was ich im Modul 133 (Web-Applikation mit Session-Handling realisieren) gelernt habe.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+In diesem Modul habe ich gelernt, wie man von der ersten Seite anhand einem Klick auf die nächste Seite weitergeleitet wird.
 
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+                
+Damit man mit einem Klick auf die nächste Seite weitergeleitet wird, muss man einen commandLink erstellen. Auf diesen commandLink wird bei "action" die Weiterleitende Seite mit ihren Namen hinzugefügt. Danach muss man eine "Value" ergänzen, zum Beispiel ein Text inder die Aktion beim Klick des Textes durchgeführt wird. 
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![Bild](https://user-images.githubusercontent.com/69577050/186892424-6f7e54a0-348f-4ed5-aa65-eb45efb24dc0.png)
+
+Und so sieht der Code aus:
+'''<h1>Sitzungsverfolgung Schritt 0</h1>
+        <p>Willkommen. Hier wird die Stzung eröffnet!</p>
+        
+        <h:form>        
+            <h:commandLink action="schritt1.xhtml" value="Hier ist der Text inder die Aktion beim Klicken durchgeführt wird." />
+        </h:form> 
+        '''
 
 ## Verifikation
 
