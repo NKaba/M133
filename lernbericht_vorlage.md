@@ -10,8 +10,6 @@ In diesem Lerbericht, werde ich eine Sache zeigen, was ich im Modul 133 (Web-App
 In diesem Modul habe ich gelernt, wie man von der ersten Seite anhand einem Klick auf die nächste Seite weitergeleitet wird.
 
 ## Beschreibung
-
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
                 
 Damit man mit einem Klick auf die nächste Seite weitergeleitet wird, muss man einen commandLink erstellen. Auf diesen commandLink wird bei "action" die Weiterleitende Seite mit ihren Namen hinzugefügt. Danach muss man eine "Value" ergänzen, zum Beispiel ein Text inder die Aktion beim Klick des Textes durchgeführt wird. 
 
@@ -33,8 +31,6 @@ Und so sieht der Code aus:
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Im Modul 133 hatten wir mit der Programmiersprache Java gearbeitet. Java kenne ich auch aus anderen Modulen, jedoch war mein wissen in Java nie wirklich gut und dank dieses Moduls konnte ich mein wissen um einiges erweitern. Grundsätzlich ging es aber in diesem Modul nicht nur allein um Java, sondern über JSF. Das war etwas Neues für mich, ich finde die Anwendung sehr spannend und konnte gleich zu Beginn vieles mitnehmen und es ist sehr ähnlich wie HTML5  in welches ich schon Vorkenntnisse habe, was dann somit JSF zu lernen vereinfacht hat. 
+Allgemein bin ich mit dem, was ich gelernt habe zufrieden, für das nächste Mal nehme ich mir vor, mehr Zeit zu Hause zu investieren, für die Aufträge, dich ich nicht gut bewältigen konnte.
 
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
