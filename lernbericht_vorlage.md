@@ -31,6 +31,6 @@ Durch die Erklärung in diesem Lernbericht, konnte ich sicherstellen, dass ich d
 
 # Reflektion zum Arbeitsprozess
 
-Im Modul 133 hatten wir mit der Programmiersprache Java gearbeitet. Java kenne ich auch aus anderen Modulen, jedoch war mein wissen in Java nie wirklich gut und dank dieses Moduls konnte ich mein wissen um einiges erweitern. Grundsätzlich ging es aber in diesem Modul nicht nur allein um Java, sondern über JSF. Das war etwas Neues für mich, ich finde die Anwendung sehr spannend und konnte gleich zu Beginn vieles mitnehmen und es ist sehr ähnlich wie HTML5  in welches ich schon Vorkenntnisse habe, was dann somit JSF zu lernen vereinfacht hat. 
+Im Modul 133 hatten wir mit der Programmiersprache Java gearbeitet. Java kenne ich auch aus anderen Modulen, jedoch war mein wissen in Java nie wirklich gut und dank dieses Moduls konnte ich mein wissen um einiges erweitern. Grundsätzlich ging es aber in diesem Modul nicht nur allein um Java, sondern über JSF. Das war etwas Neues für mich, ich finde die Anwendung sehr spannend und konnte gleich zu Beginn vieles mitnehmen und es ist sehr ähnlich wie HTML5 & CSS3 in welches ich schon Vorkenntnisse habe, was dann somit JSF zu lernen vereinfacht hat. 
 Allgemein bin ich mit dem, was ich gelernt habe zufrieden, für das nächste Mal nehme ich mir vor, mehr Zeit zu Hause zu investieren, für die Aufträge, dich ich nicht gut bewältigen konnte.
 
