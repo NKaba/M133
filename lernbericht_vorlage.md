@@ -3,7 +3,7 @@ Nedim Kaba
 
 ## Einleitung
 
-In diesem Lerbericht, werde ich eine Sache zeigen, was ich im Modul 133 (Web-Applikation mit Session-Handling realisieren) gelernt habe.
+In diesem Lernbericht, werde ich eine Sache zeigen, was ich im Modul 133 (Web-Applikation mit Session-Handling realisieren) gelernt habe.
 
 ## Was habe ich gelernt?
 
@@ -11,7 +11,7 @@ In diesem Modul habe ich gelernt, wie man von der ersten Seite anhand einem Klic
 
 ## Beschreibung
                 
-Damit man mit einem Klick auf die nächste Seite weitergeleitet wird, muss man einen commandLink erstellen. Auf diesen commandLink wird bei "action" die Weiterleitende Seite mit ihren Namen hinzugefügt. Danach muss man eine "Value" ergänzen, zum Beispiel ein Text inder die Aktion beim Klick des Textes durchgeführt wird. 
+Damit man mit einem Klick auf die nächste Seite weitergeleitet wird, muss man einen commandLink erstellen. Auf diesen commandLink wird bei "action" die weiterleitende Seite mit ihren Namen hinzugefügt. Danach muss man eine "Value" ergänzen, zum Beispiel ein Text in der die Aktion beim Klick des Textes durchgeführt wird. 
 
 ![Bild](https://user-images.githubusercontent.com/69577050/186892424-6f7e54a0-348f-4ed5-aa65-eb45efb24dc0.png)
 
@@ -27,7 +27,7 @@ Und so sieht der Code aus:
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Durch die Erklärung in diesem Lernbericht, konnte ich sicherstellen, dass ich diese Kompetenz verstanden habe. 
 
 # Reflektion zum Arbeitsprozess
 
